@@ -1,0 +1,21 @@
+.mynavbar {
+    position: sticky;
+    top: 0;
+  z-index: 9999;
+text-align: :center;
+}
+
+
+body{
+text-align:center;
+}
+img{
+width:240px;
+    height:300px;
+}
+#Heading{
+text-align:center;
+}
+.collapse navbar-collapse{
+    text-align:center;
+}
